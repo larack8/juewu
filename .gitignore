@@ -1,0 +1,33 @@
+# android
+/gen
+/bin
+/proguard/
+# ignore dlna
+
+/__pycache__
+/venv
+/build
+
+node_modules/
+.externalNativeBuild/
+
+
+build/
+.idea/
+
+# git
+*.orig
+
+# editors
+*.swp
+*~
+
+# mac
+.DS_Store
+
+# intellij
+*.iml
+
+# Gradle files
+.gradle/
+/build/
